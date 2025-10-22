@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                   = "onnxruntime-c"
-    spec.version                = "1.22.0"
+    spec.version                = "1.23.0"
     spec.authors                = { "ONNX Runtime" => "onnxruntime@microsoft.com" }
-    spec.source                 = { :http => "https://github.com/mybigday/onnxruntime-bricks/releases/download/v1.19.0-bricks/onnxruntime-c-tvos.zip" }
+    spec.source                 = { :http => "https://github.com/mybigday/bricks-onnxruntime-tvos/archive/refs/tags/v1.23.0.zip" }
     spec.license                = { :type => "MIT", :file => "LICENSE" }
     spec.homepage               = "https://github.com/microsoft/onnxruntime"
     spec.summary                = "ONNX Runtime C/C++ Pod"
